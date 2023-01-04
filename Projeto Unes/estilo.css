@@ -1,12 +1,15 @@
 html{
-    background-image:url("//arquivos-necessarios-projetos-unes/fundo.png");
+    background-color: darkgray;
 }
 .titulo{
-    text-align: right;
+   
+
+}
+.menu{
+   text-align: right;
     color:darkorchid;
     font-family:  Helvetica, sans-serif;
-    background-image: url("//arquivos-necessarios-projetos-unes/logo.png");
-    background-position:left;
+    font-size: large;
     
 }
 a{
