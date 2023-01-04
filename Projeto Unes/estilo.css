@@ -1,0 +1,16 @@
+html{
+    background-image:url("//arquivos-necessarios-projetos-unes/fundo.png");
+}
+.titulo{
+    text-align: right;
+    color:darkorchid;
+    font-family:  Helvetica, sans-serif;
+    background-image: url("//arquivos-necessarios-projetos-unes/logo.png");
+    background-position:left;
+    
+}
+a{
+    text-decoration:none;
+    
+
+}
