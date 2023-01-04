@@ -1,6 +1,4 @@
-html{
-    background-color: darkgray;
-}
+
 .titulo{
    
 
@@ -17,4 +15,13 @@ a{
     color:blueviolet;
     font-family: cursive;
 
+}
+.conteudo{
+    text-align: center;
+    background-color: darkgray;
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+    font-family: monospace;
 }
