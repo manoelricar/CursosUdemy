@@ -33,15 +33,15 @@ h1{
     background-image: url("Imagens/planodefundoUnes.jpg");
     text-align: center;
     font-size: xx-large ;
-    color: black;
+    color: white;
 }
-#rodape{
+.rodape{
     color: black;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    
-
 }
+
 #pg3{
     background-image: url(Imagens/fundo2.png);
 }
