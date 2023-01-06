@@ -12,8 +12,8 @@ text-indent: 5%;
     
 }
 a{
-    text-decoration:none;
-    color:blueviolet;
+    
+    color:black;
     font-family: cursive;
 
 }
@@ -34,4 +34,14 @@ h1{
     text-align: center;
     font-size: xx-large ;
     color: black;
+}
+#rodape{
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+#pg3{
+    background-image: url(Imagens/fundo2.png);
 }
